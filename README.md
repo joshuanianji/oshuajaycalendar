@@ -5,9 +5,7 @@
 | Calendars                                   | Difficulty/plausibility        | Lunar/solar | Links |
 |---------------------------------------------|--------------------------------|-------------|-------|
 | Gregorian calendar (no duh)                 | **Insane coder difficulty lol* | Solar       |       |
-| Traditional Chinese calendar                | Medium                         | Lunar       |1.[Wikipedia](https://en.wikipedia.org/wiki/Chinese_calendar)
-                                                                                              2.[Convertor](http://www.prokerala.com/general/calendar/chinese-year-converter.php)
-                                                                                              3.[Sketchier convertor](http://www.mandarintools.com/calconv_old.html)|
+| Traditional Chinese calendar                | Medium                         | Lunar       |1.[Wikipedia](https://en.wikipedia.org/wiki/Chinese_calendar)<br>2.[Convertor](http://www.prokerala.com/general/calendar/chinese-year-converter.php)<br>3.[Sketchier convertor](http://www.mandarintools.com/calconv_old.html)|
 | Ancient Hebrew calendar                     | Difficult                      | Lunar?      |1.[Wikipedia](http://www.crivoice.org/calendar.html)
                                                                                               2.[Convertor](http://www.biblicalcalendarproof.com/calendar/generate)|
 | Islamic calendar                            | Medium-difficult               | lunar?      |1.[Wikipedia](https://en.wikipedia.org/wiki/Islamic_calendar)|
