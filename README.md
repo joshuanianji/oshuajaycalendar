@@ -46,6 +46,8 @@ var d = new Date();
 - [**The** Aztec Calendar Website](https://www.azteccalendar.com/azteccalendar.html)
 - [Aztec date convertor](https://www.azteccalendar.com/?day=14&month=11&year=2016)
 
+The Aztecs have 2 calendars, one that follows the yearly cycles and one that is 260 days or something. It will be hard to do, but very interesting if I complete it.
+
 ### <a name="babylonian"></a>Babylonian Calendar
 - [Wikipedia](https://en.wikipedia.org/wiki/Babylonian_calendar)
 - [Livius.org website - pretty good actually](http://www.livius.org/articles/concept/calendar-babylonian/)
@@ -73,3 +75,5 @@ Shire gateway already has the months with its approximate relations to the grego
 4. Or use online convertors and find out their algorithms. Lol.
 
 ## <a name="log"></a>Log:
+### November 15, 2016
+Bootstrap and jQuery downloaded and added to `index.html`. `Main.js` now has an object which comtains the current gregorian year and checks if it is a leap year.
