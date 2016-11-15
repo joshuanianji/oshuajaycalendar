@@ -12,12 +12,13 @@
 | Babylonian Calendar                         | Medium                         | Lunar?      | - [Wikipedia](https://en.wikipedia.org/wiki/Aztec_calendar) <br> - [**The** Aztec Calendar Website](https://www.azteccalendar.com/azteccalendar.html) <br> - [Aztec date convertor](https://www.azteccalendar.com/?day=14&month=11&year=2016)|
 | The Shire Calendar                          | Easy                           | ??          | - [Wikipedia](https://en.wikipedia.org/wiki/Middle-earth_calendar) <br> - [Tolkien Gateway](http://tolkiengateway.net/wiki/Shire_Calendar) <br> - [Shire gateway](http://shire-reckoning.com/calendar.html)|
 | Proposed Martian Calendar (Darian Calendar) | Near impossible                | Solar?      | - [Wikipedia](https://en.wikipedia.org/wiki/Darian_calendar) <br> - [Convertor and more](http://ops-alaska.com/time/gangale_converter/calendar_clock.htm) <br> - [More convertor stuff](http://www-mars.lmd.jussieu.fr/mars/time/martian_time.html)||
-***More sources will be listed later.**
+* **More sources will be listed later.**
 
 ---
 ## How the :poop: can we get this working?
 1. Devise 2 arrays - Massive arrays or objects that keep track of solar and lunar cycles. Since all calendars rely on that (maybe except for that one aztec calendar), that might work.
 2. A Variable that keeps track of leap years.
 3. Make the arrays/objects/functions keep track of the days of the year (e.g. day 237). This is so the months can be dealt with separately, not using a super complicated algorithm to unravel the gregorian calendar to change it to another solar calendar.
-...We'll need a lot of if statements
+
+   *We'll need a lot of if statements*
 4. Or use online convertors and find out their algorithms. Lol.
