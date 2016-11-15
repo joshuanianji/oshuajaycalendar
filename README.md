@@ -1,6 +1,5 @@
 # This is a Project aimed to make a dashboard for many types of timekeeping
 ## Different calendars, clocks, and years can be used.
----
 ## Ideas:
 | Calendars                                               | Difficulty/plausibility        | Lunar/solar |
 |---------------------------------------------------------|--------------------------------|-------------|
@@ -12,6 +11,8 @@
 | [Babylonian Calendar](#babylonian)                      | Medium                         | Lunar?      |
 | [The Shire Calendar](#shire)                            | Easy                           | ??          |
 | [Proposed Martian Calendar (Darian Calendar)](#martian) | Near impossible                | Solar?      |
+
+---
 
 ### <a name="gregorian"></a>Gregorian Calendar
 ### <a name="chinese"></a>Traditional Chinese Calendar
@@ -42,7 +43,7 @@
 - [Tolkien Gateway](http://tolkiengateway.net/wiki/Shire_Calendar)
 - [Shire gateway](http://shire-reckoning.com/calendar.html)
 
-### <a name="martian"></a>The Martian Calendar
+### <a name="martian"></a>The Darian Calendar
 - [Wikipedia](https://en.wikipedia.org/wiki/Darian_calendar)
 - [Convertor and more](http://ops-alaska.com/time/gangale_converter/calendar_clock.htm)
 
