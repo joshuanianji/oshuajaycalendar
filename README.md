@@ -23,11 +23,6 @@
 
 ### <a name="gregorian"></a>Gregorian Calendar
 [W3 schools' Javascript date stuff](http://www.w3schools.com/jsref/jsref_obj_date.asp)
-We will use Javascript's date objects.
-```
-var d = new Date();
-//Date will return something like: Mon Nov 14 2016 23:36:42 GMT-0700 (MST)
-//
 
 ### <a name="chinese"></a>Traditional Chinese Calendar
 - [Wikipedia](https://en.wikipedia.org/wiki/Chinese_calendar)
@@ -76,4 +71,4 @@ Shire gateway already has the months with its approximate relations to the grego
 
 ## <a name="log"></a>Log:
 ### November 15, 2016
-Bootstrap and jQuery downloaded and added to `index.html`. `Main.js` now has an object which comtains the current gregorian year and checks if it is a leap year.
+Bootstrap and jQuery downloaded and added to `index.html`. `Main.js` now has an object which contains the current gregorian year and checks if it is a leap year.
