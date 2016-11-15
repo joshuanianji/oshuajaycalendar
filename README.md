@@ -6,24 +6,24 @@
 |---------------------------------------------|--------------------------------|-------------|-------|
 | Gregorian calendar (no duh)                 | **Insane coder difficulty lol* | Solar       |       |
 | Traditional Chinese calendar                | Medium                         | Lunar       |1.[Wikipedia](https://en.wikipedia.org/wiki/Chinese_calendar)
-                                                                                              1.[Convertor](http://www.prokerala.com/general/calendar/chinese-year-converter.php)
-                                                                                              1.[Sketchier convertor](http://www.mandarintools.com/calconv_old.html)|
+                                                                                              2.[Convertor](http://www.prokerala.com/general/calendar/chinese-year-converter.php)
+                                                                                              3.[Sketchier convertor](http://www.mandarintools.com/calconv_old.html)|
 | Ancient Hebrew calendar                     | Difficult                      | Lunar?      |1.[Wikipedia](http://www.crivoice.org/calendar.html)
-                                                                                              1.[Convertor](http://www.biblicalcalendarproof.com/calendar/generate)|
+                                                                                              2.[Convertor](http://www.biblicalcalendarproof.com/calendar/generate)|
 | Islamic calendar                            | Medium-difficult               | lunar?      |1.[Wikipedia](https://en.wikipedia.org/wiki/Islamic_calendar)|
 | Aztec Calendars                             | Difficult                      | Lunar?      |1.[Wikipedia](https://en.wikipedia.org/wiki/Babylonian_calendar)
-                                                                                              1.[Livius.org website - pretty good actually](http://www.livius.org/articles/concept/calendar-babylonian/)
-                                                                                              1.[[Introduction to the Babylonian Calendar](https://www.staff.science.uu.nl/~gent0113/babylon/babycal.htm)
-                                                                                              1.[Babylonian Calendar Convertor](https://www.staff.science.uu.nl/~gent0113/babylon/babycal_converter.htm)|
+                                                                                              2.[Livius.org website - pretty good actually](http://www.livius.org/articles/concept/calendar-babylonian/)
+                                                                                              3.[[Introduction to the Babylonian Calendar](https://www.staff.science.uu.nl/~gent0113/babylon/babycal.htm)
+                                                                                              4.[Babylonian Calendar Convertor](https://www.staff.science.uu.nl/~gent0113/babylon/babycal_converter.htm)|
 | Babylonian Calendar                         | Medium                         | Lunar?      |1.[Wikipedia](https://en.wikipedia.org/wiki/Aztec_calendar)
-                                                                                              1.[*The* Aztec Calendar Website](https://www.azteccalendar.com/azteccalendar.html)
-                                                                                              1.[Aztec date convertor](https://www.azteccalendar.com/?day=14&month=11&year=2016)|
+                                                                                              2.[*The* Aztec Calendar Website](https://www.azteccalendar.com/azteccalendar.html)
+                                                                                              3.[Aztec date convertor](https://www.azteccalendar.com/?day=14&month=11&year=2016)|
 | The Shire Calendar                          | Easy                           | ??          |1.[Wikipedia](https://en.wikipedia.org/wiki/Middle-earth_calendar)
-                                                                                              1.[Tolkien Gateway](http://tolkiengateway.net/wiki/Shire_Calendar)
-                                                                                              1.[Shire gateway](http://shire-reckoning.com/calendar.html)|
+                                                                                              2.[Tolkien Gateway](http://tolkiengateway.net/wiki/Shire_Calendar)
+                                                                                              3.[Shire gateway](http://shire-reckoning.com/calendar.html)|
 | Proposed Martian Calendar (Darian Calendar) | Near impossible                | Solar?      |1.[Wikipedia](https://en.wikipedia.org/wiki/Darian_calendar)
-                                                                                              1.[Convertor and more](http://ops-alaska.com/time/gangale_converter/calendar_clock.htm)
-                                                                                              1.[More convertor stuff](http://www-mars.lmd.jussieu.fr/mars/time/martian_time.html)||
+                                                                                              2.[Convertor and more](http://ops-alaska.com/time/gangale_converter/calendar_clock.htm)
+                                                                                              3.[More convertor stuff](http://www-mars.lmd.jussieu.fr/mars/time/martian_time.html)||
 ***More sources will be listed later.**
 
 ---
