@@ -12,7 +12,7 @@
 | Babylonian Calendar                         | Medium                         | Lunar?      | - [Wikipedia](https://en.wikipedia.org/wiki/Aztec_calendar) <br> - [**The** Aztec Calendar Website](https://www.azteccalendar.com/azteccalendar.html) <br> - [Aztec date convertor](https://www.azteccalendar.com/?day=14&month=11&year=2016)|
 | The Shire Calendar                          | Easy                           | ??          | - [Wikipedia](https://en.wikipedia.org/wiki/Middle-earth_calendar) <br> - [Tolkien Gateway](http://tolkiengateway.net/wiki/Shire_Calendar) <br> - [Shire gateway](http://shire-reckoning.com/calendar.html)|
 | Proposed Martian Calendar (Darian Calendar) | Near impossible                | Solar?      | - [Wikipedia](https://en.wikipedia.org/wiki/Darian_calendar) <br> - [Convertor and more](http://ops-alaska.com/time/gangale_converter/calendar_clock.htm) <br> - [More convertor stuff](http://www-mars.lmd.jussieu.fr/mars/time/martian_time.html)||
-* **More sources will be listed later.**
+\* **More sources will be listed later.**
 
 ---
 ## How the :poop: can we get this working?
