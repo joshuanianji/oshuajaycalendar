@@ -16,7 +16,7 @@
 | [Islamic calendar](#islamic)                            | Medium-difficult               | lunar?      |
 | [Aztec Calendars](#aztec)                               | Difficult                      | Lunar?      |
 | [Babylonian Calendar](#babylonian)                      | Medium                         | Lunar?      |
-| [The Shire Calendar](#shire)                            | Easy                           | ??          |
+| [The Shire Calendar](#shire)                            | Easy                           | Solar       |
 | [Proposed Martian Calendar (Darian Calendar)](#martian) | Near impossible                | Solar?      |
 
 ---
@@ -54,7 +54,7 @@ The Aztecs have 2 calendars, one that follows the yearly cycles and one that is 
 - [Tolkien Gateway](http://tolkiengateway.net/wiki/Shire_Calendar)
 - [Shire gateway](http://shire-reckoning.com/calendar.html)
 
-Shire gateway already has the months with its approximate relations to the gregorian calendar months: tt will be easy to make.
+Shire gateway already has the months with its approximate relations to the gregorian calendar months: it will be easy to make.
 
 ### <a name="martian"></a>The Darian Calendar
 - [Wikipedia](https://en.wikipedia.org/wiki/Darian_calendar)
